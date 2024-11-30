@@ -1,0 +1,19 @@
+table.fc-scrollgrid-sync-table tr:nth-child(3) {
+    display: none;
+}
+
+table.fc-scrollgrid-sync-table tr:nth-child(4) {
+    display: none;
+}
+
+table.fc-scrollgrid-sync-table tr:nth-child(5) {
+    display: none;
+}
+
+th.fc-day-sat {
+    background-color: #eaf4ff;
+}
+
+th.fc-day-sun {
+    background-color: #ffeaea;
+}
